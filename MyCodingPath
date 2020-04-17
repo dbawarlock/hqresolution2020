@@ -1,0 +1,45 @@
+Resolusi :
+1/ Programming world
+A Front-End Section
+--------------------------------------------
+- learn concept
+- learn prerequites for front end developer
+- VCS
+- Package Manager
+- choose framework :  Angular.js, react.js,Vue.js
+- web component : html template
+- CSS Framework : bootstrap
+- learn PWA Concept
+- SSR : Angular.js , react.js, Vue.js
+- Mobile Application - Flutter
+- Desktop Application
+B. Back-End Section
+--------------------------------------------
+- learn internet and OS 
+- learn a Language : Java,PHP, Javascript
+- VCS
+- learn RDBMS 
+- More about Databases : ORMs, Data Replication
+- Learn about APIs
+- Web Security
+- Testing
+- Design and Implementation
+- Architecture : SOA,  Microservices, Monolithic Aps
+- Search Engine
+- Message Broker : Kafka
+- Containerization ,Virtualization : Docker, LXC
+- GraphQL : Apollo
+- Graph Database : Neo4J
+- WebServer : Apache
+
+C. Dev-Ops
+--------------------------------------------
+- Learn Programming Language : Python, Node.js,C++
+- Understand OS : Redhat, Windows, Fedore, Debian
+- Learn Managing Server
+- Networking and Protocol : HTTP, HTTPS, FTP,SSL,SSH
+- Setup reverse Proxy, forward proxy,load Balancer, firewall
+- learn infra as code 
+- learn monitor infra
+- cloud provider
+- cloud design pattern
