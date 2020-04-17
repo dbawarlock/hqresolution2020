@@ -1,2 +1,4 @@
 # hqresolution2020
-HQ Resolution2020 Prohect
+DBAWARLOCK Coding World Path - 2020
+
+Bismillah
